@@ -7,17 +7,17 @@ handlebars
 ```
 
 
-#environment varriables
+# environment varriables
 ```
 .env change varriables
 ```
 
-#install packages
+# install packages
 ```
 npm install
 ```
 
-#for run application
+# for run application
 ```
 node index.js
 ```
