@@ -1,0 +1,25 @@
+{
+  "name": "express-handlebar-mail-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarkerSarker09/express-handlebar-mail-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarkerSarker09/express-handlebar-mail-app/issues"
+  },
+  "homepage": "https://github.com/SarkerSarker09/express-handlebar-mail-app#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "nodemailer": "^6.4.11"
+  }
+}
